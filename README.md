@@ -1,2 +1,2 @@
-# JavaExerciseMinTicUTP
-Programas ciclo 2 java, mintic2021
+# Java
+Programas ciclo 2 java, 
